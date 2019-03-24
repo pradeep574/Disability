@@ -1,0 +1,17 @@
+
+.root {
+	-fx-background-color: Teal;
+	-fx-background-image: url("https://picserio.com/data/out/478/cool-images-for-backgrounds_6789392.png");
+}
+
+.regbtn {
+	-fx-background-color: black;
+	-fx-text-fill: #3c7fb1,
+	-fx-linear-gradient(#fafdfe , #e8f5fc),
+	linear-gradient(#eaf6fd 0%, #d9f0fc 49%, #bee6fd 50%, #a7d9f5 100%);
+	
+}
+
+.scenetitle {
+	-fx-text-fill: white;
+}
